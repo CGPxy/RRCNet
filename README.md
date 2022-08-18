@@ -2,7 +2,8 @@
 Brest lesions Segmentation
 
 
-
+# Network
+![绘图1](https://user-images.githubusercontent.com/52651150/185284141-33018ba9-6f9d-4c52-a75a-2f204a3df4c6.png)
 
 
 
