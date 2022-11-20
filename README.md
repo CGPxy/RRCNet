@@ -1,5 +1,5 @@
 # RRCNet
-Brest lesions Segmentation
+[RRCNet: Refinement residual convolutional network for breast ultrasound images segmentation](https://doi.org/10.1016/j.engappai.2022.105601)
 
 
 # Network
